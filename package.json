@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Oman21-skanic.github.com/Mantan",
+  "homepage": "https://Oman21-skanic.github.io/Mantan",
 
   "scripts": {
     "dev": "vite",
